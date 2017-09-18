@@ -3,6 +3,13 @@
 </style>
 </head>
 <body>
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+th, td {
+  text-align: center;
+}
 .button {
   background-color: #F7F3F2;
 }
