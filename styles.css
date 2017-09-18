@@ -6,9 +6,13 @@
 </head>
 <body>
 
-h1 { font-size:60px;
+body { background-color: grey;
+		font-size: 20px;
+	}
+h1 { font-size: 3em;
+
 }
-body { background-color: grey; }
+
 
 
 
