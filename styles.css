@@ -1,6 +1,11 @@
 <head>
 <style>
+body 
+{ background-color: grey; 
+font-size: 20px;
+}
 
+}
 
 </style>
 </head>
@@ -8,9 +13,7 @@
 h1 { font-size: 3em;
 
 }
-body { background-color: grey;
-		font-size: 20px;
-	}
+
 
 
 
