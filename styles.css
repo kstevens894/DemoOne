@@ -1,17 +1,13 @@
 <head>
 <style>
-body 
-{ background-color: grey; 
-font-size: 20px;
-}
-
-}
-
 </style>
 </head>
 <body>
-h1 { font-size: 3em;
-
+body { background-color: grey; 
+font-size: 20px;
+}
+h1 { background-color: lightblue;
+font-size: 3em;
 }
 
 
