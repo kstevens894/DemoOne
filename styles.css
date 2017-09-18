@@ -6,8 +6,10 @@
 </head>
 <body>
 
-h1 {margin: auto}
-body { background-color: red; }
+h1 {background-color: light-blue;
+	margin-left:50px;
+}
+body { background-color: grey; }
 
 
 
