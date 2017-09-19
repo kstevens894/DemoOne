@@ -4,6 +4,7 @@
 </head>
 <body>
 .mower{
+  position: relative;
   align: right;
 }
 .button {  
