@@ -3,9 +3,9 @@
 </style>
 </head>
 <body>
-.mower{
-  margin: auto 5px;
-  float: left;
+div.mower{
+  position: relative;
+  right: 120px;
 }
 .button {  
   background-color: #F7F3F2;
