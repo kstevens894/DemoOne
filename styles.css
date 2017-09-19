@@ -4,11 +4,9 @@
 </head>
 <body>
 .mower{
-  
-.button {
   position: absolute;
 }
-  
+.button {  
   background-color: #F7F3F2;
 }
 
