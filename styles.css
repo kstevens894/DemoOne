@@ -4,9 +4,8 @@
 </head>
 <body>
 .mower{
-  position: relative;
-  right: 0px;
-  padding:10px;
+  margin: auto 5px;
+  float: right;
 }
 .button {  
   background-color: #F7F3F2;
