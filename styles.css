@@ -5,7 +5,7 @@
 <body>
 .mower{
   position: relative;
-  align: right;
+  right: 80px;
 }
 .button {  
   background-color: #F7F3F2;
