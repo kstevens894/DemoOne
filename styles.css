@@ -4,7 +4,7 @@
 </head>
 <body>
 .mower{
-  image-align: right;
+  align: right;
 }
 .button {  
   background-color: #F7F3F2;
