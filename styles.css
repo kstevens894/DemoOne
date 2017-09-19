@@ -4,7 +4,7 @@
 </head>
 <body>
 div.mower{
-  position: relative;
+  position: absolute;
   left: 1200px;
 }
 .button {  
